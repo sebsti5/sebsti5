@@ -1,3 +1,5 @@
+# Sebastian — Founder @ Tafi Solutions
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,30:f97316,60:f58220,100:ff6b00&height=300&section=header&text=SEBSTI5&fontSize=90&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=FOUNDER%20%40%20TAFI%20SOLUTIONS&descSize=20&descColor=ffffff&descAlignY=65&stroke=f97316&strokeWidth=2"/>
 
 <div align="center">
