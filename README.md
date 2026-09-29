@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,30:f97316,60:f58220,100:ff6b00&height=300&section=header&text=SEBSTI5&fontSize=90&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=FOUNDER%20%40%20TAFI%20SOLUTIONS&descSize=20&descColor=ffffff&descAlignY=65&stroke=f97316&strokeWidth=2" alt="Sebastian — Founder @ Tafi Solutions"/>
+<a href="https://tafisolutions.com"><img width="100%" src="assets/banner.svg" alt="Sebastian — Founder &amp; Lead Engineer at Tafi Solutions. Born in Moldova, building for Europe."/></a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&color=F97316&center=true&vCenter=true&repeat=true&width=780&height=45&lines=%24+whoami+%E2%86%92+Founder+%26+Lead+Engineer+%40+Tafi+Solutions;%24+git+log+--since%3D2026+%E2%86%92+4%2C500%2B+contributions;%24+build+%E2%86%92+fleet+%C2%B7+GPS+%C2%B7+dispatch+%C2%B7+AI+copilots;%24+location+%E2%86%92+Chi%C8%99in%C4%83u%2C+Moldova+%F0%9F%87%B2%F0%9F%87%A9;%24+status+%E2%86%92+SHIPPING+DAILY+%F0%9F%94%A5)](https://github.com/sebsti5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&color=F97316&center=true&vCenter=true&repeat=true&width=780&height=45&lines=%24+echo+%24ORIGIN+%E2%86%92+Moldova+%F0%9F%87%B2%F0%9F%87%A9+%E2%86%92+Europe+%F0%9F%87%AA%F0%9F%87%BA;%24+git+log+--since%3D2026+%E2%86%92+4%2C500%2B+contributions;%24+build+%E2%86%92+fleet+%C2%B7+GPS+%C2%B7+dispatch+%C2%B7+AI+copilots;%24+status+%E2%86%92+SHIPPING+DAILY+%F0%9F%94%A5)](https://github.com/sebsti5)
 
 <a href="https://tafisolutions.com"><img src="https://img.shields.io/badge/TAFI_SOLUTIONS-FOUNDER_%26_CEO-ff6b00?style=for-the-badge&labelColor=0f172a&logo=rocket&logoColor=ff6b00" alt="Tafi Solutions"/></a>
 <a href="https://github.com/Tafi-Solutions"><img src="https://img.shields.io/badge/GitHub-Tafi--Solutions-f97316?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white" alt="Tafi-Solutions on GitHub"/></a>
@@ -174,4 +174,10 @@ sebsti@tafi-hq:~$ echo $MOTTO
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b00,30:f97316,60:f58220,100:0f172a&height=150&section=footer" alt=""/>
+<div align="center">
+<img src="assets/tafi-peek.png" width="110" alt="Tafi, the Tafi Contabil mascot"/>
+<br/>
+<sub><b>Made with ❤️ in Chișinău, Moldova 🇲🇩 — for Europe 🇪🇺</b></sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0046AE,50:FFD200,100:CC092F&height=120&section=footer" alt=""/>
